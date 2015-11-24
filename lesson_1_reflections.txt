@@ -1,1 +1,8 @@
-some random stuff
+git diff
+Repository - multiple files 
+git log --stat
+commit id's 
+git config --global color.ui auto
+Git checkout
+git init to create git repo
+git status
